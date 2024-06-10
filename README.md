@@ -20,7 +20,14 @@ Currently, their data resides in several systems: accounting software, supplier 
   - Import data into a MySQL database using phpMyAdmin GUI tool
   - Import data into a MySQL database
 
-## Requirements
+## Software used in this project
 -  PostgreSQL Database
 -  MySQL
--  
+
+## Data used in this project
+- A subset of data from the Coffee shop sample data.
+- Staff information held in a spreadsheet at headquarters (HQ)
+- Sales outlet information held in a spreadsheet at HQ
+- Sales data output as a CSV file from the POS system in the sales outlets
+- Customer data output as a CSV file from a custom customer relationship management system
+- Product information maintained in a spreadsheet exported from your supplier's database
