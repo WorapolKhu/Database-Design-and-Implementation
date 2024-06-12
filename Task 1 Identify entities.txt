@@ -1,8 +1,0 @@
-Task 1: Identify entities
-
-1. staff
-2. sales_outlet
-3. sales_transaction
-4. customer
-5. product
-
